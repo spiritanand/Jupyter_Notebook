@@ -1,0 +1,2 @@
+I created my third file
+I wrote its second line in append mode
