@@ -1,2 +1,2 @@
 # Jupyter_Notebook
- Contains my first few jupyter notebooks
+ Contains a few Jupyter Notebooks.
